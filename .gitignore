@@ -134,3 +134,4 @@ json_examples/
 *.mdb
 *.zip
 
+.idea
